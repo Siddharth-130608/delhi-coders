@@ -1,4 +1,4 @@
 # delhi-coders
 This is my first repository
 <br>
-author-sidharth malhotra
+author-sidharth gupta
